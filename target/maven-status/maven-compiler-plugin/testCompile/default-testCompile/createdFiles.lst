@@ -1,0 +1,4 @@
+com\example\api\ConsumeUserWebServiceTest.class
+com\example\api\ConsumePostWebServiceTest.class
+com\example\api\UsersAndPostsServiceTest.class
+com\example\api\UsersAndPostsControllerTest.class

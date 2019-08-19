@@ -1,0 +1,10 @@
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\model\User.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\controller\UsersAndPostsController.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\service\UsersAndPostsService.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\model\Post.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\util\UtilConstants.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\resource\PostResource.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\resource\UserResource.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\service\ConsumePostWebService.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\BlogAppApplication.java
+D:\intellij-workspace\blog\blog-app\src\main\java\com\example\api\service\ConsumeUserWebService.java

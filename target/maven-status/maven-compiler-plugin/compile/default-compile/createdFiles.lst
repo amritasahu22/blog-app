@@ -1,0 +1,10 @@
+com\example\api\model\User.class
+com\example\api\service\UsersAndPostsService.class
+com\example\api\resource\UserResource.class
+com\example\api\resource\PostResource.class
+com\example\api\service\ConsumePostWebService.class
+com\example\api\util\UtilConstants.class
+com\example\api\model\Post.class
+com\example\api\BlogAppApplication.class
+com\example\api\service\ConsumeUserWebService.class
+com\example\api\controller\UsersAndPostsController.class
